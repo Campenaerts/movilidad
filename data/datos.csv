@@ -1,0 +1,201 @@
+ID,Departamento,Latitud,Longitud,Transporte,Tiempo_Promedio_Min,Costo_Promedio_Dia
+1,Córdoba,8.749,-75.8814,Metro,95,12430
+2,Córdoba,8.749,-75.8814,Bus,116,8521
+3,Nariño,1.2136,-77.2811,Metro,90,12671
+4,Nariño,1.2136,-77.2811,Metro,82,2615
+5,Antioquia,6.2442,-75.5812,Metro,113,2849
+6,Córdoba,8.749,-75.8814,Bus,83,2943
+7,Córdoba,8.749,-75.8814,Bicicleta,109,3370
+8,Santander,7.1254,-73.1198,Bicicleta,104,8708
+9,Bolívar,10.3997,-75.5144,Metro,40,9233
+10,Antioquia,6.2442,-75.5812,Metro,14,14771
+11,Santander,7.1254,-73.1198,Bicicleta,27,4190
+12,Córdoba,8.749,-75.8814,Auto,15,13861
+13,Bogotá D.C.,4.711,-74.0721,Auto,115,8834
+14,Antioquia,6.2442,-75.5812,Metro,59,2820
+15,Antioquia,6.2442,-75.5812,Bicicleta,37,14761
+16,Santander,7.1254,-73.1198,Auto,116,9632
+17,Bolívar,10.3997,-75.5144,Bicicleta,33,14500
+18,Valle del Cauca,3.4516,-76.5319,Bus,78,9295
+19,Cundinamarca,4.6814,-74.1371,Metro,37,1568
+20,Magdalena,10.591,-74.1869,Auto,67,9648
+21,Córdoba,8.749,-75.8814,Metro,76,1310
+22,Antioquia,6.2442,-75.5812,Bus,27,2907
+23,Antioquia,6.2442,-75.5812,Bicicleta,13,10899
+24,Nariño,1.2136,-77.2811,Metro,113,4455
+25,Magdalena,10.591,-74.1869,Auto,58,2691
+26,Santander,7.1254,-73.1198,Bus,115,8332
+27,Magdalena,10.591,-74.1869,Auto,41,5502
+28,Bolívar,10.3997,-75.5144,Bicicleta,105,12084
+29,Nariño,1.2136,-77.2811,Auto,92,1580
+30,Santander,7.1254,-73.1198,Auto,102,3015
+31,Antioquia,6.2442,-75.5812,Auto,106,8643
+32,Nariño,1.2136,-77.2811,Bus,75,14369
+33,Bolívar,10.3997,-75.5144,Auto,67,7862
+34,Valle del Cauca,3.4516,-76.5319,Auto,20,5055
+35,Valle del Cauca,3.4516,-76.5319,Bus,106,8583
+36,Atlántico,10.9685,-74.7813,Bus,114,11836
+37,Valle del Cauca,3.4516,-76.5319,Bus,113,2860
+38,Magdalena,10.591,-74.1869,Bicicleta,74,12876
+39,Córdoba,8.749,-75.8814,Bus,115,4875
+40,Cundinamarca,4.6814,-74.1371,Bicicleta,26,8418
+41,Atlántico,10.9685,-74.7813,Bus,89,4291
+42,Valle del Cauca,3.4516,-76.5319,Bus,75,12423
+43,Antioquia,6.2442,-75.5812,Metro,13,9378
+44,Bogotá D.C.,4.711,-74.0721,Metro,41,3943
+45,Santander,7.1254,-73.1198,Metro,80,13219
+46,Bogotá D.C.,4.711,-74.0721,Metro,38,10814
+47,Nariño,1.2136,-77.2811,Bus,70,3511
+48,Magdalena,10.591,-74.1869,Bus,69,14809
+49,Nariño,1.2136,-77.2811,Bicicleta,82,11569
+50,Santander,7.1254,-73.1198,Bus,67,7492
+51,Córdoba,8.749,-75.8814,Bicicleta,108,7643
+52,Antioquia,6.2442,-75.5812,Auto,62,8834
+53,Nariño,1.2136,-77.2811,Auto,14,2890
+54,Magdalena,10.591,-74.1869,Bus,70,13777
+55,Antioquia,6.2442,-75.5812,Auto,30,9471
+56,Atlántico,10.9685,-74.7813,Bus,67,1854
+57,Atlántico,10.9685,-74.7813,Bicicleta,90,6283
+58,Antioquia,6.2442,-75.5812,Metro,112,14292
+59,Cundinamarca,4.6814,-74.1371,Auto,23,1397
+60,Bolívar,10.3997,-75.5144,Bus,105,13715
+61,Bogotá D.C.,4.711,-74.0721,Metro,88,4503
+62,Bogotá D.C.,4.711,-74.0721,Bicicleta,94,5470
+63,Bolívar,10.3997,-75.5144,Bus,63,13063
+64,Valle del Cauca,3.4516,-76.5319,Auto,87,8159
+65,Atlántico,10.9685,-74.7813,Bicicleta,50,4795
+66,Antioquia,6.2442,-75.5812,Bus,25,1631
+67,Bogotá D.C.,4.711,-74.0721,Auto,60,4036
+68,Santander,7.1254,-73.1198,Bicicleta,10,13984
+69,Valle del Cauca,3.4516,-76.5319,Bicicleta,49,14734
+70,Nariño,1.2136,-77.2811,Metro,27,1927
+71,Cundinamarca,4.6814,-74.1371,Metro,43,11219
+72,Córdoba,8.749,-75.8814,Metro,99,10857
+73,Bogotá D.C.,4.711,-74.0721,Bus,70,9269
+74,Nariño,1.2136,-77.2811,Bicicleta,109,5583
+75,Córdoba,8.749,-75.8814,Metro,30,12433
+76,Nariño,1.2136,-77.2811,Auto,10,2061
+77,Bogotá D.C.,4.711,-74.0721,Bus,36,7710
+78,Bolívar,10.3997,-75.5144,Metro,60,4361
+79,Santander,7.1254,-73.1198,Bus,20,13458
+80,Bogotá D.C.,4.711,-74.0721,Bicicleta,111,5737
+81,Bolívar,10.3997,-75.5144,Auto,23,2699
+82,Santander,7.1254,-73.1198,Bicicleta,101,6701
+83,Antioquia,6.2442,-75.5812,Auto,64,1291
+84,Córdoba,8.749,-75.8814,Bicicleta,36,7037
+85,Nariño,1.2136,-77.2811,Bus,31,1580
+86,Bolívar,10.3997,-75.5144,Bicicleta,30,13709
+87,Bogotá D.C.,4.711,-74.0721,Auto,33,5200
+88,Bogotá D.C.,4.711,-74.0721,Bus,28,14717
+89,Atlántico,10.9685,-74.7813,Bus,33,1879
+90,Córdoba,8.749,-75.8814,Auto,35,2482
+91,Bogotá D.C.,4.711,-74.0721,Auto,34,11487
+92,Nariño,1.2136,-77.2811,Bus,54,8070
+93,Bogotá D.C.,4.711,-74.0721,Auto,117,7452
+94,Cundinamarca,4.6814,-74.1371,Bicicleta,38,12636
+95,Magdalena,10.591,-74.1869,Bicicleta,83,10321
+96,Atlántico,10.9685,-74.7813,Bicicleta,20,6980
+97,Córdoba,8.749,-75.8814,Bus,33,1314
+98,Bolívar,10.3997,-75.5144,Bicicleta,33,9800
+99,Bolívar,10.3997,-75.5144,Bus,21,4925
+100,Valle del Cauca,3.4516,-76.5319,Auto,16,12184
+101,Atlántico,10.9685,-74.7813,Bicicleta,49,3586
+102,Valle del Cauca,3.4516,-76.5319,Bus,90,3119
+103,Antioquia,6.2442,-75.5812,Metro,108,9569
+104,Bogotá D.C.,4.711,-74.0721,Bicicleta,79,14807
+105,Cundinamarca,4.6814,-74.1371,Bicicleta,85,8352
+106,Magdalena,10.591,-74.1869,Bus,88,9325
+107,Antioquia,6.2442,-75.5812,Bus,105,4245
+108,Bogotá D.C.,4.711,-74.0721,Auto,32,11008
+109,Bolívar,10.3997,-75.5144,Bus,80,8777
+110,Valle del Cauca,3.4516,-76.5319,Auto,47,5488
+111,Magdalena,10.591,-74.1869,Metro,40,4135
+112,Cundinamarca,4.6814,-74.1371,Auto,38,5510
+113,Antioquia,6.2442,-75.5812,Bicicleta,53,7546
+114,Bogotá D.C.,4.711,-74.0721,Bus,37,2136
+115,Atlántico,10.9685,-74.7813,Metro,85,7208
+116,Valle del Cauca,3.4516,-76.5319,Metro,100,2751
+117,Antioquia,6.2442,-75.5812,Bus,77,5961
+118,Cundinamarca,4.6814,-74.1371,Bicicleta,30,7544
+119,Santander,7.1254,-73.1198,Bus,18,9481
+120,Cundinamarca,4.6814,-74.1371,Bus,58,10698
+121,Antioquia,6.2442,-75.5812,Bus,107,8587
+122,Bolívar,10.3997,-75.5144,Auto,46,10530
+123,Magdalena,10.591,-74.1869,Metro,30,12083
+124,Córdoba,8.749,-75.8814,Metro,69,7500
+125,Córdoba,8.749,-75.8814,Bicicleta,32,5973
+126,Magdalena,10.591,-74.1869,Metro,97,8141
+127,Santander,7.1254,-73.1198,Bus,19,11176
+128,Nariño,1.2136,-77.2811,Metro,111,1751
+129,Cundinamarca,4.6814,-74.1371,Bicicleta,79,4589
+130,Magdalena,10.591,-74.1869,Auto,30,1748
+131,Valle del Cauca,3.4516,-76.5319,Auto,110,1364
+132,Valle del Cauca,3.4516,-76.5319,Bus,38,1266
+133,Nariño,1.2136,-77.2811,Bus,68,13693
+134,Nariño,1.2136,-77.2811,Metro,49,4821
+135,Antioquia,6.2442,-75.5812,Metro,30,5234
+136,Atlántico,10.9685,-74.7813,Bicicleta,95,10380
+137,Cundinamarca,4.6814,-74.1371,Bus,108,6913
+138,Nariño,1.2136,-77.2811,Bicicleta,72,7809
+139,Bolívar,10.3997,-75.5144,Auto,55,4177
+140,Magdalena,10.591,-74.1869,Metro,14,4220
+141,Córdoba,8.749,-75.8814,Bus,24,6529
+142,Valle del Cauca,3.4516,-76.5319,Metro,114,12022
+143,Santander,7.1254,-73.1198,Bus,92,14158
+144,Santander,7.1254,-73.1198,Auto,89,1702
+145,Santander,7.1254,-73.1198,Bicicleta,49,10890
+146,Atlántico,10.9685,-74.7813,Bus,116,1200
+147,Cundinamarca,4.6814,-74.1371,Metro,96,13905
+148,Nariño,1.2136,-77.2811,Bus,13,12990
+149,Córdoba,8.749,-75.8814,Bicicleta,94,3013
+150,Atlántico,10.9685,-74.7813,Auto,33,14144
+151,Antioquia,6.2442,-75.5812,Metro,51,4541
+152,Nariño,1.2136,-77.2811,Auto,35,8155
+153,Córdoba,8.749,-75.8814,Auto,115,11201
+154,Antioquia,6.2442,-75.5812,Bicicleta,75,4505
+155,Bogotá D.C.,4.711,-74.0721,Bus,113,12292
+156,Santander,7.1254,-73.1198,Bus,17,5159
+157,Cundinamarca,4.6814,-74.1371,Bus,82,8080
+158,Cundinamarca,4.6814,-74.1371,Bus,75,14407
+159,Bolívar,10.3997,-75.5144,Metro,87,12929
+160,Cundinamarca,4.6814,-74.1371,Auto,29,7683
+161,Bolívar,10.3997,-75.5144,Bus,75,7653
+162,Nariño,1.2136,-77.2811,Auto,77,14651
+163,Magdalena,10.591,-74.1869,Metro,108,10903
+164,Bolívar,10.3997,-75.5144,Metro,64,13538
+165,Atlántico,10.9685,-74.7813,Metro,87,10921
+166,Santander,7.1254,-73.1198,Auto,94,12542
+167,Cundinamarca,4.6814,-74.1371,Bus,88,13326
+168,Bogotá D.C.,4.711,-74.0721,Auto,48,1068
+169,Atlántico,10.9685,-74.7813,Bus,59,5372
+170,Valle del Cauca,3.4516,-76.5319,Bicicleta,29,12383
+171,Valle del Cauca,3.4516,-76.5319,Bus,79,10301
+172,Valle del Cauca,3.4516,-76.5319,Bus,37,7320
+173,Córdoba,8.749,-75.8814,Bus,52,4018
+174,Valle del Cauca,3.4516,-76.5319,Metro,75,3653
+175,Magdalena,10.591,-74.1869,Bicicleta,37,14403
+176,Bogotá D.C.,4.711,-74.0721,Bus,107,14731
+177,Antioquia,6.2442,-75.5812,Bicicleta,87,9532
+178,Córdoba,8.749,-75.8814,Auto,82,9612
+179,Bogotá D.C.,4.711,-74.0721,Auto,32,3275
+180,Bolívar,10.3997,-75.5144,Metro,117,2918
+181,Cundinamarca,4.6814,-74.1371,Auto,44,1472
+182,Antioquia,6.2442,-75.5812,Bicicleta,31,11327
+183,Atlántico,10.9685,-74.7813,Bicicleta,14,4421
+184,Nariño,1.2136,-77.2811,Bicicleta,69,6929
+185,Bogotá D.C.,4.711,-74.0721,Bicicleta,50,14154
+186,Magdalena,10.591,-74.1869,Bicicleta,38,12220
+187,Atlántico,10.9685,-74.7813,Metro,44,6765
+188,Bolívar,10.3997,-75.5144,Bus,107,14268
+189,Atlántico,10.9685,-74.7813,Auto,77,3087
+190,Bolívar,10.3997,-75.5144,Bicicleta,54,8817
+191,Antioquia,6.2442,-75.5812,Auto,18,12550
+192,Atlántico,10.9685,-74.7813,Metro,60,9185
+193,Antioquia,6.2442,-75.5812,Metro,23,9447
+194,Bolívar,10.3997,-75.5144,Bus,118,4869
+195,Magdalena,10.591,-74.1869,Metro,78,6716
+196,Santander,7.1254,-73.1198,Bus,65,10635
+197,Antioquia,6.2442,-75.5812,Bicicleta,100,8996
+198,Nariño,1.2136,-77.2811,Metro,20,9730
+199,Antioquia,6.2442,-75.5812,Auto,39,4387
+200,Nariño,1.2136,-77.2811,Metro,110,11015
